@@ -8,4 +8,4 @@
 
 ### Stack
 VueJs TailwindCss Typescript
-SvelteJs SCSS HTML CSS JavaScript
+SvelteJs SCSS HTML CSS JavaScript Python Flask Nuxt
