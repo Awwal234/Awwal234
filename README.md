@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning web devlopment and communication skill
@@ -7,10 +7,10 @@
 -->
 
 ### Stack
-VueJs TailwindCss Typescript
-SvelteJs SCSS HTML CSS JavaScript Python Flask Nuxt
+**VueJs TailwindCss Typescript
+SvelteJs SCSS HTML CSS JavaScript Python Flask Nuxt React AstroJs**
 
 <hr/>
 
 ### Portfolio Link
-<b><small>Website: </small><em>https://dolapo.vercel.app<em></b>
+<b><small>Website: </small>https://dolapo.vercel.app</b>
